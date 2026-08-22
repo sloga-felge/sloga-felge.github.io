@@ -1,0 +1,56 @@
+{
+  "business": {
+    "name": "Servis felgi Sloga",
+    "owner": "Eldin Vejo",
+    "type": "AutoRepair / Alloy wheel repair",
+    "address": {
+      "street": "3. tuzlanske brigade 128",
+      "city": "Tuzla",
+      "zip": "75000",
+      "region": "Tuzlanski kanton",
+      "country": "Bosnia and Herzegovina"
+    },
+    "geo": {
+      "lat": 44.5278651,
+      "lon": 18.7249549
+    },
+    "phone": "+387 61 570 429",
+    "whatsapp": "https://wa.me/38761570429",
+    "languages": [
+      "bs",
+      "hr",
+      "sr",
+      "de",
+      "en"
+    ]
+  },
+  "services": [
+    {
+      "id": "svc-repair",
+      "bs": "Varenje i popravak pukotina",
+      "de": "Schweißen und Risse reparieren",
+      "description_bs": "Pukotine, lomovi, rupe u falcu i nedostajući komadi materijala. Mjesto se navari kroz cijelu debljinu i obradi do prvobitnog oblika felge."
+    },
+    {
+      "id": "svc-straighten",
+      "bs": "Ravnanje krivih felgi",
+      "de": "Verbogene Felgen richten",
+      "description_bs": "Felga koja baca, vibrira ili je od udarca postala jaje vraća se na presi u pravilan krug, u malim koracima i uz provjeru materijala."
+    }
+  ],
+  "areaServed": [
+    "Tuzla",
+    "Lukavac",
+    "Živinice",
+    "Srebrenik",
+    "Gračanica",
+    "Banovići"
+  ],
+  "urls": {
+    "bs": "https://slogafelge.com/",
+    "de": "https://slogafelge.com/de/",
+    "en": "https://slogafelge.com/en/"
+  },
+  "notes": "Opening hours and prices are not published; contact by phone or WhatsApp. Not every damage can be repaired safely — assessment on site.",
+  "updated": "2026-08-13"
+}
